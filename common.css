@@ -1,0 +1,17 @@
+body{
+    background : linear-gradient(black, green);
+    position: absolute;
+}
+
+div{
+    border-radius : 50%;
+    position: relative;
+    z-index: 0;
+    background-color: purple;
+}
+
+button:hover{
+    color: teal;
+    text-decoration: underline;
+    font-family: sans-serif;
+}
